@@ -79,7 +79,7 @@
     self.tableView.tableFooterView = logout;
     self.tableView.bounds = CGRectMake(0, 64, 320, 396);
     int height =self.tableView.frame.size.height;
-    NSLog(@"height%d",height);
+    NSLog(@"height：%d",height);
 
 }
 
